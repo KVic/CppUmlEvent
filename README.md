@@ -1,3 +1,3 @@
-# CppUmlEvent
+# CppUml Event
 
-CppUmlEvent is part of [CppUmlFramework](https://github.com/KVic/CppUmlFramework).
+The CppUml Event is part of the CppUml Framework.
